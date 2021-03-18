@@ -1,2 +1,2 @@
 # ThaumatichthysPagidostomus
-website lol
+This is my website.
